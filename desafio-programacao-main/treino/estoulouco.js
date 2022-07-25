@@ -1,0 +1,1 @@
+var gente = require(./pessoas.json)
